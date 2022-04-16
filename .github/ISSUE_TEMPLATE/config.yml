@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: New Issue
+    about: Issue を作成する
+    url: https://github.com/bot-cps/bot_cps.issue/issues/new/choose
